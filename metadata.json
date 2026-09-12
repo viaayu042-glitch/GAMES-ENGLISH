@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fun English Adventure - Guess \u0026 Match",
+  "description": "Game edukasi interaktif Bahasa Inggris untuk siswa Kelas 1 \u0026 2 SD dengan mode solo dan multiplayer 2-5 pemain, karakter satwa lucu, dan audio narasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
